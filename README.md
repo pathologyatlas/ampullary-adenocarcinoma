@@ -1,123 +1,208 @@
 # ampullary-adenocarcinoma
 
 
-
 **ampullary-adenocarcinoma for pathology atlas repositories**
 
 
 
+```yaml
+- stainname: ampullary-adenocarcinoma-HE
+  reponame: ampullary-adenocarcinoma
+  titleTR: Ampulla Vater Adenokarsinomu
+  titleEN: Adenocarcinoma of Ampulla of Vater
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-09
+  url: https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_ampullary-adenocarcinoma-HE.png
+  github: https:///github.com/pathologyatlas/ampullary-adenocarcinoma
+  githubpage: https://pathologyatlas.github.io/ampullary-adenocarcinoma
+  youtube: ''
+```
 
-```{r language ampullary-adenocarcinoma, echo=FALSE, include=TRUE}
 
-source("./R/language.R")
 
+```yaml
+- stainname: ampullary-adenocarcinoma-HE2
+  reponame: ampullary-adenocarcinoma
+  titleTR: Ampulla Vater Adenokarsinomu
+  titleEN: Adenocarcinoma of Ampulla of Vater
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-09
+  url: https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_ampullary-adenocarcinoma-HE2.png
+  github: https:///github.com/pathologyatlas/ampullary-adenocarcinoma
+  githubpage: https://pathologyatlas.github.io/ampullary-adenocarcinoma
+  youtube: ''
 ```
 
 
 
 
-```{asis, echo = (language == "TR")}
 
-## Ampulla Vater Adenokarsinomu
+[https://images.patolojiatlasi.com/ampullary-adenocarcinoma/](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/)
 
-```
+[https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html)
 
-
-
-
-```{asis, echo = (language == "EN")}
-
-## Adenocarcinoma of Ampulla of Vater
-
-```
-
-
-
-
-```{asis, echo = (language == "TR")}
 
 **Ampulla Vater Adenokarsinomu**
 
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html)
 
-[https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html)
-
-Mikroskopik görüntüleri inceleyin:
-
-<iframe src="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
-
-```
-
-```{comment}
-asis, echo = (language == "TR")
+<a href="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_ampullary-adenocarcinoma-HE.png" style="width:25%;"></a>
 
 
-
-<button id="tani-case-ampullary-adenocarcinoma-btn">Tanıyı Göster</button>
-<div id="answer-ampullary-adenocarcinoma" style="display: none;">Ampulla Vater Adenokarsinomu</div>
-
-<script>
-  const showAnswer-ampullary-adenocarcinomaBtn = document.getElementById('tani-case-ampullary-adenocarcinoma-btn');
-  const answer-ampullary-adenocarcinoma = document.getElementById('answer-ampullary-adenocarcinoma');
-
-  showAnswer-ampullary-adenocarcinomaBtn.addEventListener('click', () => {
-    if (answer-ampullary-adenocarcinoma.style.display === 'none') {
-      answer-ampullary-adenocarcinoma.style.display = 'block';
-      showAnswer-ampullary-adenocarcinomaBtn.textContent = 'Tanıyı Gizle';
-    } else {
-      answer-ampullary-adenocarcinoma.style.display = 'none';
-      showAnswer-ampullary-adenocarcinomaBtn.textContent = 'Tanıyı Göster';
-    }
-  });
-</script>
-
-
-
-{{< video https://www.youtube.com/embed/ >}}
-
-
-
-```
-
-
-
-```{asis, echo = (language == "EN")}
 
 **Adenocarcinoma of Ampulla of Vater**
 
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html)
 
-[https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html)
-
-See Microscopy with viewer: 
-
-<iframe src="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
-
-```
-
-
-```{comment}
-asis, echo = (language == "EN")
-
-<button id="dx-case-ampullary-adenocarcinoma-btn">Show the Diagnosis</button>
-<div id="answer-ampullary-adenocarcinoma" style="display: none;">Adenocarcinoma of Ampulla of Vater</div>
-
-<script>
-  const showAnswer-ampullary-adenocarcinomaBtn = document.getElementById('dx-case-ampullary-adenocarcinoma-btn');
-  const answer-ampullary-adenocarcinoma = document.getElementById('answer-ampullary-adenocarcinoma');
-
-  showAnswer-ampullary-adenocarcinomaBtn.addEventListener('click', () => {
-    if (answer-ampullary-adenocarcinoma.style.display === 'none') {
-      answer-ampullary-adenocarcinoma.style.display = 'block';
-      showAnswer-ampullary-adenocarcinomaBtn.textContent = 'Hide the Diagnosis';
-    } else {
-      answer-ampullary-adenocarcinoma.style.display = 'none';
-      showAnswer-ampullary-adenocarcinomaBtn.textContent = 'Show the Diagnosis';
-    }
-  });
-</script>
-
-
-{{< video https://www.youtube.com/embed/ >}}
+<a href="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_ampullary-adenocarcinoma-HE.png" style="width:25%;"></a>
 
 
 
-```
+
+
+
+
+[https://images.patolojiatlasi.com/ampullary-adenocarcinoma/](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/)
+
+[https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html)
+
+
+**Ampulla Vater Adenokarsinomu**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html)
+
+<a href="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_ampullary-adenocarcinoma-HE2.png" style="width:25%;"></a>
+
+
+
+**Adenocarcinoma of Ampulla of Vater**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html)
+
+<a href="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_ampullary-adenocarcinoma-HE2.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/ampullary-adenocarcinoma/HE2.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+
+
+
+
+<hr>
+
+<a href="https://www.patolojiatlasi.com/"><img src ="https://www.patolojiatlasi.com/images/coverTR.png" style="width:50%;"></a>
+
+<a href="https://www.histopathologyatlas.com/"><img src ="https://www.patolojiatlasi.com/images/coverEN.png" style="width:50%;"></a>
+
+
+
+- Sosyal medyadan derlenen görüntülerden oluşan patoloji notları için [tıklayın](https://www.patolojinotlari.com/).
+
+- For social media based pathology notes [click here](https://www.patolojinotlari.com/).
+
+
+<iframe width="160" height="400" src="https://leanpub.com/patolojiatlasi/embed" frameborder="0" allowtransparency="true"></iframe>
+
+
+
+<a href="https://play.google.com/store/books/details?id=um5jEAAAQBAJ&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png" style="width: 250px;"></a>
+
+
+
+
+<a href="https://books.apple.com/us/book/patoloji-atlas%C4%B1/id6456452218?itscg=30200&amp;itsct=books_box_badge&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/get-it-on-apple-books/badge/tr-tr?size=250x83&amp;releaseDate=1690848000" alt="Get it on Apple Books" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+
+
+
+
+
+| Atıf için (Citation)                                                                                                                                                                                                                                                                                     |
+|------------------------------------------------------------------------|
+| [![](https://zenodo.org/badge/452585667.svg)](https://zenodo.org/badge/latestdoi/452585667)                                                                                                                                                                                                              |
+| [Open Science Framework DOI: 10.17605/OSF.IO/6W5K8](https://osf.io/6w5k8/)                                                                                                                                                                                                                               |
+| [![](https://img.shields.io/github/issues/patolojiatlasi/patolojiatlasi.github.io)](https://github.com/patolojiatlasi/patolojiatlasi.github.io/issues)                                                                                                                                                   |
+| [![](https://img.shields.io/github/license/patolojiatlasi/patolojiatlasi.github.io)](https://github.com/patolojiatlasi/patolojiatlasi.github.io/blob/main/LICENSE)                                                                                                                                       |
+| <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.patolojiatlasi.com%2F%20@patolojinotlari%20@serdarbalci%20"><img src="https://img.shields.io/twitter/url?label=Patoloji%20Atlas%C4%B1&amp;style=social&amp;url=https%3A%2F%2Fwww.patolojiatlasi.com%2F" alt="Twitter"/></a>    |
+| <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.patolojinotlari.com%2F%20@patolojinotlari%20@serdarbalci%20"><img src="https://img.shields.io/twitter/url?label=Patoloji%20Notlar%C4%B1&amp;style=social&amp;url=https%3A%2F%2Fwww.patolojinotlari.com%2F" alt="Twitter"/></a> |
+
+
+
+
+
